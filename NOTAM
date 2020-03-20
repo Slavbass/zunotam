@@ -1,7 +1,16 @@
-0
+1
 62
-Hi,
+Hi all!
 
-Once V3.40 for the B737-800X is made available to the general public, please take care to read the release notes before upgrading your copy of the mod. There is a good chance that you will need to delete/move some files before commencing the upgrade process.
+I have received a number of questions recently regarding the lack of availability of the 3.40 public beta through the Updater.
 
-Thanks.
+After speaking with Lubos (Zibo), I've decided that it will be best to wait until 3.40 is completely ready, and some of the issues* with it are ironed out. Once 3.40 is out of beta, you will be notified of its availability as normal.
+
+Please note however, that you may still upgrade to 3.40 via the Updater manually, though you will not receive notifications about updates for the 3.40 public beta branch.
+
+If there is enough demand to roll out the 3.40 beta to everybody, I will do so, and remove 3.39 from the server. At this time, I will keep things as they are, with 3.39 being the latest release offered by the ZIBO Updater.
+
+Thanks, and I hope that clears some things up for all of you,
+Slavbass.
+
+* I am mainly referring to some behind the scenes issues, not necessarily issues to do with the aircraft itself.
