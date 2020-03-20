@@ -1,16 +1,7 @@
-0
-63
-Hi all!
+1
+64
+If you've just upgraded to 3.40, which has just released, but are getting a Aircraft Version: UNKNOWN, do not worry, as this is a know issue that is being worked on just now.
 
-I have received a number of questions recently regarding the lack of availability of the 3.40 public beta through the Updater.
+It will not affect you in any way :)
 
-After speaking with Lubos (Zibo), I've decided that it will be best to wait until 3.40 is completely ready, and some of the issues* with it are ironed out. Once 3.40 is out of beta, you will be notified of its availability as normal.
-
-Please note however, that you may still upgrade to 3.40 via the Updater manually, though you will not receive notifications about updates for the 3.40 public beta branch.
-
-If there is enough demand to roll out the 3.40 beta to everybody, I will do so, and remove 3.39 from the server. At this time, I will keep things as they are, with 3.39 being the latest release offered by the ZIBO Updater.
-
-Thanks, and I hope that clears some things up for all of you,
-Slavbass.
-
-* I am mainly referring to some behind the scenes issues, not necessarily issues to do with the aircraft itself.
+Cheers!
