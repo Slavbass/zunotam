@@ -1,7 +1,16 @@
-0
-64
-If you've just upgraded to 3.40, which has just released, but are getting a Aircraft Version: UNKNOWN, do not worry, as this is a know issue that is being worked on just now.
+1
+65
+Hi,
 
-It will not affect you in any way :)
+If you are affected by any of the following issues in B737-800X V3.40 and V3.40.2/V3.40.2A:
+- EFB Reads 3.40RC5 as the aircraft version/not what you currently have installed.
+- EFB shows "Detected missing or unsupported files"
 
-Cheers!
+Please navigate to the B737-800X\plugins\xlua\scripts directory, and delete the following folders:
+- B738.aaa_fms
+- B738.AXP_1_EQ_commands
+- B738.AXP_2_flightcontrol_commands
+- B738.AXP_3_FMOD_commands
+- B738.AXP_4_FMOD_logic
+
+Thanks.
