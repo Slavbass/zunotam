@@ -2,9 +2,8 @@
 65
 Hi,
 
-If you are affected by any of the following issues in B737-800X V3.40 and V3.40.2/V3.40.2A:
+If you are affected by the following issue in B737-800X V3.40 and V3.40.2/V3.40.2A:
 - EFB Reads 3.40RC5 as the aircraft version/not what you currently have installed.
-- EFB shows "Detected missing or unsupported files"
 
 Please navigate to the B737-800X\plugins\xlua\scripts directory, and delete the following folders:
 - B738.aaa_fms
@@ -12,5 +11,7 @@ Please navigate to the B737-800X\plugins\xlua\scripts directory, and delete the 
 - B738.AXP_2_flightcontrol_commands
 - B738.AXP_3_FMOD_commands
 - B738.AXP_4_FMOD_logic
+
+If your EFB is showing "Detected missing or unsupported files", please  re-install 3.40, and update to the latest patch once again.
 
 Thanks.
