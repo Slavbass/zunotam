@@ -1,12 +1,9 @@
 1
 77
-Server Maintenance (Update #1)
-Server maintenance has been now been pushed back to 2300UTC, and will last one hour until 0000UTC, May 3rd.
-
-- Original notification -
+Server Maintenance
 Hi all,
 
-It's time for monthly server maintenance, which will take place today (2nd of May, 2020) at 2000UTC until approximately 2015UTC.
+It's time for monthly server maintenance, which will take place today (2nd of May, 2020) at 2100UTC until approximately 2115UTC.
 
 This means that ZIBO Updater will not be able to contact the server during this time, and any network errors can be safely ignored.
 
