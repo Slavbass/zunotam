@@ -1,8 +1,11 @@
-0
-75
-Network Outage (23:04UTC 27APR)
-Network provider experiencing massive national outage. ZIBO Updater services are affected and intermittent. Provider is aware and working on fix.
+1
+76
+Server Maintenance
+Hi all,
 
-Expected Fix Time: APR28 08:05UTC
+It's time for monthly server maintenance, which will take place today (2nd of May, 2020) at 2000UTC until approximately 2015UTC.
 
-Apologies for any inconvenience. 
+This means that ZIBO Updater will not be able to contact the server during this time, and any network errors can be safely ignored.
+
+Thanks for your understanding,
+Slavbass
