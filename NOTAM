@@ -1,8 +1,10 @@
-0
-78
-Network Update
+1
+80
+3.41 Public Beta
 Hi, All.
 
-The network is down for around 5 minutes and will be back shortly to apply firmware updates.
+If you want to try the 3.41 Public Beta for the B738X, ensure that you have 3.40.27 installed first. 
+Furthermore, before updating to 3.41, delete your plugins folder before commencing the update.
 
-Thanks.
+Cheers,
+Slavbass
