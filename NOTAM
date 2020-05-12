@@ -1,13 +1,14 @@
 1
-81
-3.41 Public Beta
+85
+3.41 Public Betas
 Hi, All.
 
-If you wish to try the 3.41 Public Beta for the B738X, ensure that you have 3.40.27 installed first.
+Please be aware that due to the unstable nature of public betas for the B737-800X, the ZIBO Updater will not offer them to you.
 
-Furthermore, before updating to 3.41, delete your plugins folder before commencing the update.
+You need to download the beta files yourself from the Google Drive, and follow the installation instructions packaged with them (if applicable).
 
-The public beta currently has a few issues, and has therefore been made optional and not available via the updater. You may download the beta releases via the Google Drive. 
+You may still use the ZIBO Updater to install the files manually, if you wish. While these betas are not officially supported, they will still work when installing them using the software.
 
-Cheers,
-Slavbass
+Remember to use Restore Points in case something goes wrong, so that you may revert your installation back to a working state.
+
+Thanks!
