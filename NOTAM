@@ -1,10 +1,13 @@
 1
-80
+81
 3.41 Public Beta
 Hi, All.
 
-If you want to try the 3.41 Public Beta for the B738X, ensure that you have 3.40.27 installed first. 
+If you wish to try the 3.41 Public Beta for the B738X, ensure that you have 3.40.27 installed first.
+
 Furthermore, before updating to 3.41, delete your plugins folder before commencing the update.
+
+The public beta currently has a few issues, and has therefore been made optional and not available via the updater. You may download the beta releases via the Google Drive. 
 
 Cheers,
 Slavbass
