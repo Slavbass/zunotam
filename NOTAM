@@ -1,9 +1,12 @@
-0
-90
-3.41 Out Now!
+1
+91
+Issues with 3.42.1
 Hi, All.
 
-In case you did not know, 3.41 is now out of Beta. If you are using any of the 3.41 release candidates, you will not be notified of 3.41 leaving beta. So go ahead and get it from the Google Drive!
+You may have noticed when updating from 3.42 to 3.42.1, that the Updater still reports your newly installed patch as version 3.42
 
-Many thanks,
-Slavbass.
+This is due to Zibo simply forgetting to update the version number in his code. The server reports the correct version due to it not relying on Zibo's code to determine the patch version. This discrepancy causes you to receive the update notification for 3.42.1 despite already installing it.
+
+Zibo is already aware of this and this will be fixed in the next patch for the aircraft.
+
+Thanks.
