@@ -1,12 +1,10 @@
-0
-91
-Issues with 3.42.1
+1
+92
+Scheduled Maintenance
 Hi, All.
 
-You may have noticed when updating from 3.42 to 3.42.1, that the Updater still reports your newly installed patch as version 3.42
+I will be performing some scheduled server maintenance on Monday the 15th of June, from 1400-1500UTC.
 
-This is due to Zibo simply forgetting to update the version number in his code. The server reports the correct version due to it not relying on Zibo's code to determine the patch version. This discrepancy causes you to receive the update notification for 3.42.1 despite already installing it.
-
-Zibo is already aware of this and this will be fixed in the next patch for the aircraft.
+For more information on what this entails and what will be affected during this time, please visit https://status.ziboupdater.net
 
 Thanks.
