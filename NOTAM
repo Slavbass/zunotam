@@ -1,8 +1,10 @@
 1
-101
-Server outage - Update #1
-Hi all,
+102
+Server outage - Update #2
+If you're still experiencing an outage, it is most likely due to propagation issues on Cloudflare's network - these should self-resolve within 48 hours.
 
-An update on the outage. The issue has been identified, and a fix deployed. All services are back online, and the situation will be monitored for the next 24hrs to ensure service stability.
+I will keep monitoring the situation as it develops.
 
-Apologies for the completely unexpected outage - it caught me by surprise too.
+Your patience is greatly appreciated
+Warmest Regards
+Slavbass
