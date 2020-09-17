@@ -1,11 +1,8 @@
 1
-100
-Server outage
+101
+Server outage - Update #1
 Hi all,
 
-There appears to be an issue with the security certificate for ZIBO Updater's server, generating a server-offline error in the software. The issue is currently being investigated.
+An update on the outage. The issue has been identified, and a fix deployed. All services are back online, and the situation will be monitored for the next 24hrs to ensure service stability.
 
-Your patience is appreciated during this time.
-
-Warmest Regards
-Slavbass
+Apologies for the completely unexpected outage - it caught me by surprise too.
