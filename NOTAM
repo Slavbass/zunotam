@@ -1,10 +1,11 @@
-0
-98
-Scheduled Maintenance
+1
+100
+Server outage
 Hi all,
 
-As always, the 15th of every month is server maintenance day. This month's maintenance falls on 2000UTC, Tuesday the 15th of September.
+There appears to be an issue with the security certificate for ZIBO Updater's server, generating a server-offline error in the software. The issue is currently being investigated.
 
-You can keep up to date with the latest information regarding maintenance on http://status.ziboupdater.net
+Your patience is appreciated during this time.
 
-Maintenance will mostly be done 'live', meaning that downtime will be absolutely minimal (2-3 minutes at most) - with that in mind, the maintenance window will last one hour in order to accommodate any issues that may occur.
+Warmest Regards
+Slavbass
