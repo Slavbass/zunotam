@@ -1,13 +1,14 @@
-0
-105
-API Issue
+1
+110
+Planned Outage, Friday Nov 6th
 Hi All,
 
-An issue with the ZIBO Updater API has been detected, resulting in delayed synchronisation of B737-800X updates. The issue is being worked on, and fix will be deployed in the coming week.
+There will be a planned outage on Friday the 6th of November 2020, between 1100 and 1500 UTC due to work being performed on an electrical unit. Servers will be shut down and unreachable for an estimated time of 30 minutes.
 
-Until the issue is fully resolved, expect a delay in receiving update notifications for the 800X.
+A further notification will be pushed ~30 minutes before the outage will take place.
 
-Check out status.ziboupdater.net for updates.
+You can keep up to date with the latest information on this outage at status.ziboupdater.net/incidents/6rvfyr6db7lr
 
-Many thanks for your patience.
+Thank you for your understanding
+Stay Safe
 Slavbass
