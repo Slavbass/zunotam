@@ -1,21 +1,11 @@
-0
-123
-Maintenance Work Completed
+1
+124
+V3.34.9 Update Issue
 Hi All,
 
-Electrical maintenance has been completed, and all services are back online.
+As a result of a recent software update to the server, it seems that ZIBO Update is unable to parse and download the latest 800X update.
 
-Thanks for your patience
+The issue is being worked on just now and a fix should be available shortly.
+
+Apologies!
 Slavbass
-
-~~
-There will be a planned outage on Friday the 6th of November 2020, between 1100 and 1500 UTC due to work being performed on an electrical unit. Servers will be shut down and unreachable for an estimated time of 30 minutes.
-
-A further notification will be pushed ~30 minutes before the outage will take place.
-
-You can keep up to date with the latest information on this outage at status.ziboupdater.net/
-
-Thank you for your understanding
-Stay Safe
-Slavbass
-~~
