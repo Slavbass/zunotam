@@ -1,11 +1,16 @@
-0
-125
-Server Maintenance
-Hi All,
+1
+130
+2nd JAN Maintenance (2000 - 2200GMT)
+Maintenance will be performed during this time, along with a server move. 2 hours have been scheduled for the maintenance period, however this does not equal to 2 hours of downtime.
 
-Regular server maintenance will commence on Tuesday 12th December 2020, at 1730UTC, and will last approximately 30 minutes. Downtime is expected to be minimal.
+Downtime is expected to be around 10 minutes at most, however updates will be published should there be any delays or extensions. The maximum possible downtime is always the duration of the maintenance window.
 
-You can follow along for updates at https://status.ziboupdater.net/incidents/zbgg8j7fsrmr
+Affected services:
+- ZIBO Updater API
+- ZIBO Updater Website
 
-Many thanks
-Slavbass
+CDN: Unaffected.
+
+Updates: https://status.ziboupdater.net/incidents/rvh24pqfqjs7
+
+Thank you for your continued understanding and support! ❤
